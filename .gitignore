@@ -1,0 +1,5 @@
+target/
+!WhiteTiger/target/
+*.ear
+*Tiger*/**/*.jar
+
